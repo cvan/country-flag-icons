@@ -10,7 +10,9 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## How was it made?
 
-Original stolen without permission from [Bartelme Design's Flag Button Devkit](http://www.bartelme.at/journal/archive/flag_button_devkit/). Then the images were optimised.
+The images were first stolen without permission from
+[Bartelme Design's Flag Button Devkit](http://www.bartelme.at/journal/archive/flag_button_devkit/)
+and then the images were optimised.
 
 # Images were resized
 
