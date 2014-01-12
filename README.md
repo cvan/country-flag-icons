@@ -14,7 +14,7 @@ The images were first stolen without permission from
 [Bartelme Design's Flag Button Devkit](http://www.bartelme.at/journal/archive/flag_button_devkit/)
 and then the images were optimised.
 
-# Images were resized
+### Images were resized
 
 Install imagemagick:
 
@@ -24,7 +24,7 @@ And run this from your shell:
 
     pushd original && for f (*.png) { convert -resize 48x48 $f ../small/$f } && popd
 
-# Image were compressed
+### Image were compressed
 
 Install pngquant:
 
